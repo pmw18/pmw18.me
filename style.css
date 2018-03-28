@@ -3,7 +3,20 @@ body {
   background-size: cover;
 }
 
-h1 {
+
+header {
   text-align: center;
   font-family: "Trebuchet MS";
+  text-transform: uppercase;
+
+}
+
+footer {
+  color: white;
+  font-family: "Trebuchet MS";
+  text-shadow: 1px 1px black;
+
+  position: fixed;
+  bottom: 10px;
+  text-align: center;
 }
